@@ -1,0 +1,15 @@
+header{
+   
+   }
+   
+ body{
+    background-image: url("theater-image-background.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-top: 20;
+ }  
+
+.container{
+    flex-direction: column-reverse; 
+    display: flex;
+    }
